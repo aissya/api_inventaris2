@@ -1,0 +1,6 @@
+Cara penggunaan :
+-ketik perintah php artisan make:model Produk -mcr (apabila belum mebuat model dan controller)-z
+-import sql produk
+-php artisan migrate:fresh 
+-run php artisan serve
+-akses pada postman
